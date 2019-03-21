@@ -53,7 +53,7 @@ def str_demo2():
     print(type(s))
     print(a+s)
 
-
+# 123
 # 声明一个add 方法 参数有两个 aint,bint
 def add(aint, bint):
     # 打印aint参数
